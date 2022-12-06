@@ -1,0 +1,53 @@
+body {
+  min-width: 320px;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: 1px solid red;
+
+  font-family: "Open Sans", "Roboto", "sans-serif";
+  font-size: 16px;
+  font-weight: 400;
+  color: #303032;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.page-main__title {
+  font-size: 27px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.product__title {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.product__price {
+  font-size: 20px;
+}
+
+.product__price-sale {
+  font-size: 30px;
+  font-weight: 800;
+}
