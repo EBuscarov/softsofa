@@ -102,3 +102,7 @@ li {
   display: flex;
 }
 
+.review__item {
+  display: flex;
+  flex-direction: column;
+}
