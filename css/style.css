@@ -71,3 +71,20 @@ li {
   margin: 0 auto;
   padding: 0;
 }
+
+/*---Сеточные стили desktop-first---*/
+.page-header__wrapper {
+  display: flex;
+}
+
+.site-nav__list {
+  display: flex;
+}
+
+.site-nav__item {
+  
+}
+
+.user-nav {
+  display: flex;
+}
