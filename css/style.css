@@ -88,3 +88,8 @@ li {
 .user-nav {
   display: flex;
 }
+
+.product {
+  display: flex; 
+  flex-direction: row;
+}
