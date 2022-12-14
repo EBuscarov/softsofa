@@ -93,3 +93,12 @@ li {
   display: flex; 
   flex-direction: row;
 }
+
+.new__wrapper {
+  display: flex;
+}
+
+.new__list {
+  display: flex;
+}
+
