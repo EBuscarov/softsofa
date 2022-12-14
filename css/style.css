@@ -106,3 +106,35 @@ li {
   display: flex;
   flex-direction: column;
 }
+
+.sale__tab-controls {
+  display: flex;
+}
+
+.sale__slider {
+  display: flex;
+}
+
+.page-footer__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+
+.page-footer__logo,
+.page-footer__navigation,
+.page-footer__wrapper {
+  box-sizing: border-box;
+}
+
+.page-footer__contacts {
+  display: flex;
+  width: 100%;
+  
+  box-sizing: border-box;
+}
+
+.page-footer__navigation-list {
+  display: flex;
+}
